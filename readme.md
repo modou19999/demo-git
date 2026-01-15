@@ -5,7 +5,7 @@ comandos:
 
 - git status
 - git add
-- gid commit
+- git commit
 
 - git clone
 - git push
